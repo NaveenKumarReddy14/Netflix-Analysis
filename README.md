@@ -69,8 +69,8 @@ The dashboard includes:
 
 ## 📸 Dashboard Preview
 ![Movies vs TV Shows](https://github.com/NaveenKumarReddy14/Netflix-Analysis/blob/37e2c4f2963c4e6ddf0c0c7712d0c18f52945989/Movie%20Vs%20Tv%20Shows.png)
-![Top Countries]()
-![Genre Distribution](images/genre_distribution.png)
+![Top Countries](https://github.com/NaveenKumarReddy14/Netflix-Analysis/blob/5344a7da260c950ab0ef5e150e910b073a29731e/Top%20countries.png)
+![Genre Distribution]()
 
 Ratings Breakdown ⭐
 
