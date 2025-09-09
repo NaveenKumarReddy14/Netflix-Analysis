@@ -68,14 +68,20 @@ The dashboard includes:
 ---
 
 ## 📸 Dashboard Preview
+
+## OverView
 ![overview](https://github.com/NaveenKumarReddy14/Netflix-Analysis/blob/d158c3a40d0cbcd0e76e86a3932df71131cf3834/Overview.png)
+## Movies vs TV Shows
 ![Movies vs TV Shows](https://github.com/NaveenKumarReddy14/Netflix-Analysis/blob/37e2c4f2963c4e6ddf0c0c7712d0c18f52945989/Movie%20Vs%20Tv%20Shows.png)
+## Top Countries 
 ![Top Countries](https://github.com/NaveenKumarReddy14/Netflix-Analysis/blob/5344a7da260c950ab0ef5e150e910b073a29731e/Top%20countries.png)
+## Genre Distribution
 ![Genre Distribution](https://github.com/NaveenKumarReddy14/Netflix-Analysis/blob/d158c3a40d0cbcd0e76e86a3932df71131cf3834/Genre.png)
+## MonthWise
 ![MonthWise](https://github.com/NaveenKumarReddy14/Netflix-Analysis/blob/d158c3a40d0cbcd0e76e86a3932df71131cf3834/Monthwise.png)
+## Rating
 ![Rating](https://github.com/NaveenKumarReddy14/Netflix-Analysis/blob/d158c3a40d0cbcd0e76e86a3932df71131cf3834/Rating.png)
 
+# 🙌 Contributing
 
-Ratings Breakdown ⭐
-
-Yearly Trends of Content Added 📈
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
