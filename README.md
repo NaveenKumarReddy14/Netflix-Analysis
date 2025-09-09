@@ -68,8 +68,8 @@ The dashboard includes:
 ---
 
 ## 📸 Dashboard Preview
-![Movies vs TV Shows](images/movies_vs_tvshows.png)
-![Top Countries](images/top_countries.png)
+![Movies vs TV Shows](Movie Vs Tv Shows.png)
+![Top Countries]()
 ![Genre Distribution](images/genre_distribution.png)
 
 Ratings Breakdown ⭐
