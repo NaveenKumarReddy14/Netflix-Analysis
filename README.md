@@ -32,8 +32,7 @@ Netflix-Analysis/
 
 ## 1. Clone the Repository
 
-git clone https://github.com/your-username/netflix-analysis.git
-cd netflix-analysis
+git clone https://github.com/NaveenKumarReddy14/Netflix-Analysis/blob/56f5b35171bacc8e37d9081f616202c697540fd6/netflix%20(1).pbix
 ---
 
 ## 2. Open the Power BI Dashboard
